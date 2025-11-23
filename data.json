@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "descrição": "Harry Potter, um garoto órfão, descobre em seu aniversário de 11 anos que é um bruxo e é convidado para estudar na Escola de Magia e Bruxaria de Hogwarts. [16, 27]",
+        "ano": 2001,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_e_a_Pedra_Filosofal_(filme)"
+    },
+    {
+        "nome": "Harry Potter e a Câmara Secreta",
+        "descrição": "No seu segundo ano em Hogwarts, Harry e seus amigos Rony e Hermione investigam uma misteriosa série de ataques a estudantes nascidos trouxas, enquanto descobrem uma câmara secreta. [17, 18, 19]",
+        "ano": 2002,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(filme)"
+    },
+    {
+        "nome": "Harry Potter e o Prisioneiro de Azkaban",
+        "descrição": "No terceiro ano de Harry em Hogwarts, o infame Sirius Black escapa da prisão de Azkaban, e Harry descobre mais sobre o passado de sua família. [8, 15, 23]",
+        "ano": 2004,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_e_o_Prisioneiro_de_Azkaban_(filme)"
+    },
+    {
+        "nome": "Harry Potter e o Cálice de Fogo",
+        "descrição": "Harry se encontra inesperadamente competindo no perigoso Torneio Tribruxo, o que o leva a um encontro fatídico com Lord Voldemort. [5, 11, 18]",
+        "ano": 2005,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_e_o_C%C3%A1lice_de_Fogo_(filme)"
+    },
+    {
+        "nome": "Harry Potter e a Ordem da Fênix",
+        "descrição": "Com o retorno de Voldemort sendo negado pelo Ministério da Magia, Harry e Dumbledore são alvos de uma campanha de descrédito enquanto formam uma aliança secreta para se preparar para a guerra que se aproxima. [7, 39, 40]",
+        "ano": 2007,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(filme)"
+    },
+    {
+        "nome": "Harry Potter e o Enigma do Príncipe",
+        "descrição": "Enquanto Harry descobre um livro de poções misterioso pertencente ao 'Príncipe Mestiço', Dumbledore o prepara para a batalha final contra Voldemort. [6, 29, 41]",
+        "ano": 2009,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(filme)"
+    },
+    {
+        "nome": "Harry Potter e as Relíquias da Morte – Parte 1",
+        "descrição": "Harry, Rony e Hermione partem em uma perigosa missão para encontrar e destruir as Horcruxes de Voldemort, as chaves para sua imortalidade. [28, 35, 36, 37]",
+        "ano": 2010,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1"
+    },
+    {
+        "nome": "Harry Potter e as Relíquias da Morte – Parte 2",
+        "descrição": "A batalha final entre as forças do bem e do mal do mundo bruxo se intensifica em uma guerra total. Harry, Rony e Hermione continuam sua busca pelas Horcruxes de Voldemort e enfrentam o Lorde das Trevas em um confronto final. [1, 10, 33]",
+        "ano": 2011,
+        "link": "https://pt.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2"
+    }
+]
